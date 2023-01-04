@@ -32,6 +32,6 @@
 
 <div align="center">
 
-  ![Snake animation]()
+  [![Snake animation]()](https://github.com/nataliabsousa/nataliabsousa/blob/output/github-contribution-grid-snake.svg)
   
 </div>
