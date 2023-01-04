@@ -1,5 +1,4 @@
-<div>
-  
+
   <h2 align="center">
     Oi, tudo bem? Eu sou a 
     <a href="https://www.linkedin.com/in/nataliabsousa/">Natália Beatriz 👋🥰</a>
@@ -16,7 +15,7 @@
     
   <a href = "mailto:natalia.bsousaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nataliabsousa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+  </div>
   
  <h2 align="center">💻 Habilidades:</h2>
 <div align="center" valign="top">
@@ -27,25 +26,19 @@
 </div>
 
 <h2 align="center">:books: Estudos recentes:</h2>
-
 <div align="center" valign="top">
   
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  
+</div>  
 
 <h2 align="center"> 📊 Status do Git:</h2>
- </div align="center">
+  
+<div align="center">
   <a href="https://github.com/nataliabsousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliabsousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliabsousa&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nataliabsousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliabsousa&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-      
-</div>
-</div>
-
-
-
-
 
 <div align="center">
   
